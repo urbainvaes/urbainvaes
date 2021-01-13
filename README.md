@@ -4,8 +4,8 @@ I am a postdoctoral researcher in  the <a href="https://team.inria.fr/matherials
 a joint research team of <a href="http://www.inria.fr/">Inria</a> and <a href="http://www.enpc.fr/">École des Ponts ParisTech</a>.
 My research focus within MATHERIALS is on variance reduction for transport coefficients in computational statistical physics.
 
-Most of the software I wrote is available on this Github page.
-This incudes the following pieces of scientific software:
+Most of the scientific software I wrote for my research is available on this Github page.
+This includes
 
 - A [Python library](https://github.com/urbainvaes/hermipy) for Fourier/Hermite spectral methods;
 
