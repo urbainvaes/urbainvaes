@@ -11,7 +11,7 @@ This includes
 
 - A [library](https://github.com/urbainvaes/bayesicle) of Python scripts implementing interacting particle methods for Bayesian inverse problems;
 
-- A [FreeFem++ code](https://github.com/urbainvaes/cahn-hilliard) for the Cahn-Hilliard equation.
+- A [FreeFem++ code](https://github.com/urbainvaes/cahn-hilliard) for the Cahn-Hilliard equation;
 
-- A [Julia code](https://github.com/urbainvaes/Langevin-self-diffusion) for calculating the effective diffusion coefficient associated with the standard Langevin dynamics,
+- A [Julia code](https://github.com/urbainvaes/Langevin-self-diffusion) for calculating the effective diffusion coefficient associated with standard Langevin dynamics,
   using a variance reduction approach based on control variates.
