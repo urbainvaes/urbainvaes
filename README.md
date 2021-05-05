@@ -16,4 +16,4 @@ This includes
 - A [Julia code](https://github.com/urbainvaes/Langevin-self-diffusion) for calculating the effective diffusion coefficient associated with standard Langevin dynamics,
   using a variance reduction approach based on control variates.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urbainvaes&show_icons=true&theme=radical&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=urbainvaes&show_icons=true&theme=default&include_all_commits=true)
