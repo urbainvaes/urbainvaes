@@ -2,7 +2,7 @@
 
 I am a postdoctoral researcher in  the <a href="https://team.inria.fr/matherials/">MATHERIALS</a> group,
 a joint research team of <a href="http://www.inria.fr/">Inria</a> and <a href="http://www.enpc.fr/">École des Ponts ParisTech</a>.
-My research focus within MATHERIALS is on variance reduction for transport coefficients in computational statistical physics.
+My research focus within MATHERIALS is on the development of variance reduction methods for the calculation of transport coefficients in computational statistical physics.
 
 Most of the scientific software I wrote for my research is available on this Github page.
 This includes
