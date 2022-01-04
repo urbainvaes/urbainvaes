@@ -3,7 +3,7 @@
 I am a researcher (Inria Starting Faculty Position) in  the <a href="https://team.inria.fr/matherials/">MATHERIALS</a> group,
 a joint research team of <a href="http://www.inria.fr/">Inria</a> and <a href="http://www.enpc.fr/">École des Ponts ParisTech</a>.
 My research focus within MATHERIALS is on the development and analysis of efficient and robust sampling methods in high dimensions,
-particularly for applications related to inverse problems and computational statistical physics.
+particularly for applications related to statistical inverse problems and computational statistical physics.
 
 Most of the scientific software I wrote for my research is available on this Github page.
 This includes
